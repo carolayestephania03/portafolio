@@ -1,9 +1,9 @@
 <!-- About Section Content-->
 <div class="row">
   <div class="col-lg-4 ms-auto">
-    <p class="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p>
+    <p class="lead">Soy desarrolladora de software, actualmente estoy cursando la carrera de Ingeniería en Sistemas en la Universidad Mariano Galvez de Guatemala.</p>
   </div>
   <div class="col-lg-4 me-auto">
-    <p class="lead">You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!</p>
+    <p class="lead">Mi objetivo es seguir aprendiendo y mejorando mis habilidades en el desarrollo de software a largo plazo, me gustaría contribuir en proyectos de gran impacto que mejoren la vida de las personas a traves de la tecnología!</p>
   </div>
 </div>
